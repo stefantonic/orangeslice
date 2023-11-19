@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: orangeslice
 description: orangeslice_demo
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://stefantonic.github.io/orangeslice" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "orangeslice" # the subpath of your site, e.g. /blog
+url: "https://stefantonic.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty

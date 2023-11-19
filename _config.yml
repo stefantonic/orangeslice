@@ -20,8 +20,8 @@ url: "https://stefantonic.github.io/" # the base hostname & protocol for your si
 repository: just-the-docs/just-the-docs # for github-metadata
 
 permalink: pretty
-logo: "/assets/images/logo_a.png"
-favicon_ico: "/assets/images/orange.ico"
+logo: "/assets/images/logo_d.png"
+favicon_ico: "/assets/images/favicon_a.ico"
 
 
 exclude:

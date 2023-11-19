@@ -16,3 +16,8 @@ https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-
 just-the-docs github: [github](https://github.com/just-the-docs/just-the-docs)<br>
 just-the-docs dokumentacija: [just-the-docs](https://just-the-docs.com/)<br>
 jekyll vodic prema operativnom sistemu: [jekyll](https://jekyllrb.com/docs/installation/)
+
+## Licenca
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).

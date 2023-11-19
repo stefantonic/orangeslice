@@ -8,7 +8,8 @@
     <br><br><br>
 </p>
 
-<p align="center">video reprezentacija just-the-docs</p>
+<p align="center">video reprezentacija just-the-docs teme</p>
+
 https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-bb9b-437fe47df071.mp4
 
 ## Instalacija

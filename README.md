@@ -3,25 +3,15 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://just-the-docs.com/">See it in action!</a></strong></p>
+    <h1 align="center">just-the-docs</h1>
+    <p align="center">moderna, visoko funkcionalna i responzivna jekyll tema za dokumentaciju sa ugradjenom pretragom.<br>lako hostovana na github-pages sa samo "nekoliko" dodatnih komponenti.</p>
     <br><br><br>
 </p>
 
-<p align="center">A video walkthrough of various Just the Docs features</p>
-
+<p align="center">A video walkthrough of various Just the Docs features</p><br>
 https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-bb9b-437fe47df071.mp4
 
-## Installation
-
-### Use the template
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
-[Just the Docs]: https://just-the-docs.com
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
-[GitHub Pages]: https://pages.github.com/
-[Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Instalacija
+just-the-docs github: [github](https://github.com/just-the-docs/just-the-docs)<br>
+just-the-docs dokumentacija: [just-the-docs](https://just-the-docs.com/)<br>
+jekyll vodic prema operativnom sistemu: [jekyll](https://jekyllrb.com/docs/installation/)

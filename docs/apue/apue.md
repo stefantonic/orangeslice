@@ -8,7 +8,7 @@ permalink: /docs/apue
 
 # napredno programiranje u unix sredini
 
-`napredno programiranje u unix sredini` opisuje aplikaciono programerski interfejs `unix` operativnog sistema 
+`napredno programiranje u unix sredini` projekat opisuje aplikaciono programerski interfejs `unix` operativnog sistema 
 i ilustruje ih kroz `c` programski jezik.<br>
 {:  .fs-4   .fw-300}
 {:  .text-left  }

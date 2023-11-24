@@ -30,6 +30,9 @@ tesko bukvalno prevoditi na srpski i cesto ima potpuno drugo znacenje od zeljeno
 svakako, ova dokumentacija ce biti na `srpskom` jeziku uz povremene reci `engleskog` jezika.<br> 
 {:  .fs-4   .fw-300}
 {:  .text-left  }
+`source-code` projekta moze biti preuzet [github-u](https://github.com/stefantonic/apue)
+{:  .fs-4   .fw-300}
+{:  .text-left  }
 
 <p align="center">
   <img src="https://i.imgur.com/UgCEqZ6.png" alt="test" width="300" height="300">
